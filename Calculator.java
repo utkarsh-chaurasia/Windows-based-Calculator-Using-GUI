@@ -6,7 +6,7 @@ package javaapplication1;
 
 /**
  *
- * @author ASUS
+ * @author Utkarsh Chaurasia
  */
 public class NewJFrame extends javax.swing.JFrame {
 
