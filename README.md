@@ -1,4 +1,48 @@
 # Calculator-with-the-help-of-GUI
+# ABSTRACT
+It is a windows-based application programme to calculate your every possible sum, substract, multiplication and divide to create this application I am using tha swing class of java.
+So, what is Swing class ?
+Swing in java is part of Java foundation class which is lightweight and platform independent. It is used for creating window based applications. It includes components like button, scroll bar, text field etc. Putting together all these components makes a graphical user interface. In this article, we will go through the concepts involved in the process of building applications using swing in Java.
+
+# INTRODUCTION OF JAVA SWING
+
+Swing has about four times the number of User Interface [U1] components as AWT and is part of the standard Java distribution. By today’s application GUI requirements, AWT is a limited implementation, not quite capable of providing the components required for developing complex GUI’s required in modern commercial applications. The AWT component set has quite a few bugs and really does take up a lot of system resources when compared to equivalent Swing resources. Netscape introduced its Internet Foundation Classes [IFC] library for use with Java. Its Classes became very popular with programmers creating GUI’s for commercial applications.
+
+Swing is a Set Of API ( API- Set Of Classes and Interfaces )
+Swing is Provided to Design a Graphical User Interfaces
+Swing is an Extension library to the AWT (Abstract Window Toolkit)
+Includes New and improved Components that have been enhancing the looks and Functionality of GUI’s
+Swing can be used to build(Develop) The Standalone swing GUI Apps Also as Servlets And Applets
+It Employs model/view design architecture
+Swing is more portable and more flexible than AWT, The Swing is built on top of the AWT
+Swing is Entirely written in Java
+Java Swing Components are Platform-independent And The Swing Components are lightweight
+Swing Supports Pluggable look and feels And Swing provides more powerful components
+such as tables, lists, Scrollpanes, Colourchooser, tabbedpane, etc
+Further Swing Follows MVC
+Many programmers think that JFC and Swing is one and the same thing, but that is not so.
+
+JFC contains Swing [A UI component package] and quite a number of other items:
+
+Cut and paste: Clipboard support
+Accessibility features: Aimed at developing GUI’s for users with disabilities
+The Desktop Colors Features Has been Firstly introduced in Java 1.1
+The Java 2D: it has Improved colors, images, and also texts support
+
+# FEATURES OF SWING CLASS
+Pluggable look and feel
+Uses MVC architecture
+Lightweight Components
+Platform Independent
+Advance features such as JTable, JTabbedPane, JScollPane etc
+Java is a platform-independent language and runs on any client machine, the GUI look and feel, owned and delivered by a platform specific O/S, simply does not affect an application’s GUI constructed using Swing components
+
+Lightweight Components: Starting with the JDK 1.1, its AWT supported lightweight component development. For a component to qualify as lightweight, it must not depend on any non-Java [O/s based) system classes. Swing components have their own view supported by Java’s look and feel classes
+
+Pluggable Look and Feel: This feature enables the user to switch the look and feel of Swing components without restarting an application. The Swing library supports components look and feel that remains the same across all platforms wherever the program runs. The Swing library provides an API that gives real flexibility in determining the look and feel of the GUI of an application
+
+# SWING CLASSES HIERARCHY
+![SwingClasshierrarchy](https://user-images.githubusercontent.com/52343042/174471218-a3c85956-ae24-4327-a7d2-32d5e1cb4614.png)
 
 # USES
 Lable :
