@@ -1,4 +1,4 @@
-# Calculator-with-the-help-of-GUI
+# Windows-based-Calculator-Using-GUI
 # ABSTRACT
 It is a windows-based application programme to calculate your every possible sum, substract, multiplication and divide to create this application I am using tha swing class of java.
 
