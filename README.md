@@ -18,6 +18,7 @@ Slider :
 The Java Slider class is used to create the slider by using JSlider. JSlider is a part of Java Swing package . JSlider is an implementation of slider. The Component allows the user to select a value by sliding the knob within the bounded value . The slider can show Major Tick marks and also the minor tick marks between two major tick marks, The knob can be positioned at only those points.
 
 TextArea :
+
 JTextArea is a part of java Swing package . It represents a multi line area that displays text. It is used to edit the text . 
 JTextArea inherits JComponent class. The text in JTextArea can be set to different available fonts and can be appended to new text . A text area can be customized to the need of user .
 
