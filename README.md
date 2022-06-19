@@ -1,7 +1,9 @@
 # Calculator-with-the-help-of-GUI
 # ABSTRACT
 It is a windows-based application programme to calculate your every possible sum, substract, multiplication and divide to create this application I am using tha swing class of java.
+
 So, what is Swing class ?
+
 Swing in java is part of Java foundation class which is lightweight and platform independent. It is used for creating window based applications. It includes components like button, scroll bar, text field etc. Putting together all these components makes a graphical user interface. In this article, we will go through the concepts involved in the process of building applications using swing in Java.
 
 # INTRODUCTION OF JAVA SWING
