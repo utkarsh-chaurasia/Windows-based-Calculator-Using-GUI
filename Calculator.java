@@ -8,12 +8,12 @@ package javaapplication1;
  *
  * @author Utkarsh Chaurasia
  */
-public class NewJFrame extends javax.swing.JFrame {
+public class Calculator extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame
      */
-    public NewJFrame() {
+    public Calculator() {
         initComponents();
     }
 
